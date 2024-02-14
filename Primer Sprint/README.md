@@ -53,4 +53,5 @@ Finalmente, como en Data es muy importante trabajar con datos de calidad, deber�
 Tomamos la decisión en base al análisis realizado de trabajar con las siguientes herramientas y tecnologías -
  + Python y Jupyter Notebooks como principales fuentes de escritura de código.
  + Notion y Github para la generación de documentación, donde Github será enfocada al registro del código desarrollado, mientras Notion, tendrá documentación acorde a objetivos, presentación de integrantes, ciclo de vida, entre otras cosa.
- + 
+ + Para la realización del EDA y en futuras instancias, para cualquier interacción con el código desarrollado, utilizaremos Google Colab y Visual Studio Code.
+ + A su vez ya generamos un avance en la toma de decisiones, y optamos por la utilización de Google Cloud, Spark y Polars como implementación para el manejo de la data a utilizar, Power BI para la generación del Dashboard final, y por último, OpenIA y Bard como las herramientas de Inteligencia Artificial utilizadas.
