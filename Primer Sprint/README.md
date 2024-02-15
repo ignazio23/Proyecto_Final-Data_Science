@@ -14,12 +14,13 @@ De la misma manera evaluamos las posibles herramientas a utilizar y llevamos a d
 
 ### • **Alcance**
 
-Deberemos delimitar el trabajo definiendo el correcto alcance y las tareas/desarrollos que se puedan considerar importantes para la integridad del proyecto pero que por complejidad o tiempo.
+Deberemos delimitar el trabajo definiendo el correcto alcance y las tareas/desarrollos que se puedan considerar importantes para la integridad del proyecto por complejidad o tiempo.
 
 
 ### • **Objetivos y KPIs Asociados**
 
-Del entendimiento de la problemática surgirán cuestiones que se buscarán resolver con el trabajo o las herramientas desarrolladas. Estas cuestiones, formuladas como objetivos, admitirán la creación de [KPIs](https://www.google.com/url?q=https://docs.google.com/document/d/e/2PACX-1vRmmx8r3a7YzHbIClAcVEQkzqGeEstItZSZ2e1HaycWHGblIuGE1frhQNbumSPcEe2RMgZ-u9gu4Iac/pub&sa=D&source=editors&ust=1706660402738041&usg=AOvVaw0jw64ofDxcvg_BSW5CNaRk) para evaluar su cumplimiento. Es una tarea muy abarcativa y a la vez muy específica en torno tanto a la problemática como al enfoque elegido.
+Del entendimiento de la problemática surgirán cuestiones que se buscarán resolver con el trabajo o las herramientas desarrolladas. Estas cuestiones, formuladas como objetivos, admitirán la creación de [KPIs](https://www.google.com/url?q=https://docs.google.com/document/d/e/2PACX-1vRmmx8r3a7YzHbIClAcVEQkzqGeEstItZSZ2e1HaycWHGblIuGE1frhQNbumSPcEe2RMgZ-u9gu4Iac/pub&sa=D&source=editors&ust=1706660402738041&usg=AOvVaw0jw64ofDxcvg_BSW5CNaRk) para evaluar su cumplimiento. 
+Es una tarea muy abarcativa y a la vez muy específica en torno tanto a la problemática como al enfoque elegido.
 
 Los KPI definidos posterior a su debido análisis y resolución por parte del equipo, son:
  + Mejorar el porcentaje de reseñas positivas en un 10 % respecto del año anterior.
@@ -30,7 +31,7 @@ Los KPI definidos posterior a su debido análisis y resolución por parte del eq
 
 ### • **Repositorio Github y Documentación en Notion**
 
-Armado d un repositorio de Github para trabajar colaborativamente con todo el grupo. Debe ser público para que lo pueda ver tanto el mentor como el Product Owner.
+Armado de un repositorio de Github para trabajar colaborativamente con todo el grupo. Debe ser público para que lo pueda ver tanto el mentor como el Product Owner.
 A su vez se realiza documentación de todo lo realizado en la herramienta Notion, con la intención de dejar registro y guía de lo que se fue desarrollando y a su vez, el como y el porque de ello.
 Github: https://github.com/ignazio23/Proyecto_Final-Data_Science
 Notion por otra parte se podrá visualizar de la siguiente forma:
