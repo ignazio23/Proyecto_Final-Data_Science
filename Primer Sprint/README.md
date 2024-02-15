@@ -56,3 +56,40 @@ Tomamos la decisión en base al análisis realizado de trabajar con las siguient
  + Notion y Github para la generación de documentación, donde Github será enfocada al registro del código desarrollado, mientras Notion, tendrá documentación acorde a objetivos, presentación de integrantes, ciclo de vida, entre otras cosa.
  + Para la realización del EDA y en futuras instancias, para cualquier interacción con el código desarrollado, utilizaremos Google Colab y Visual Studio Code.
  + A su vez ya generamos un avance en la toma de decisiones, y optamos por la utilización de Google Cloud, Spark y Polars como implementación para el manejo de la data a utilizar, Power BI para la generación del Dashboard final, y por último, OpenIA y Bard como las herramientas de Inteligencia Artificial utilizadas.
+
+
+## Diccionario de Datos
+
+### `review_estado`
+| Fila | Descripción |
+| --- | --- |
+| **user_id** | Id de usuario de Google Maps. |
+| **name** | Nombre de usuario de Google Maps. |
+| **time** | Fecha y hora de registro de la calificación y/o comentario. |
+| **gmap_id** | Id de localización del establecimiento, presente en tabla metadatos-sitio. |
+| **rating** | Calificación hecha por el usuario. |
+| **text** | Comentario hecho por el usuario. |
+| **review** | Comentario tokenizado, para análisis de Machine Learning. |
+
+### `metadatos_restaurantes`
+| Fila | Descripción |
+| --- | --- |
+| **address** | Ubicación del negocio. |
+| **avg_rating** | Promedio de todas las puntuaciones hechas por los usuarios. |
+| **category** | Categorías con las que está registrado el restaurante. |
+| **gmap_id** | Id de localización del establecimiento proporcionado por google maps. |
+| **latitude** | Latitud de la coordenada. |
+| **longitude** | Longitud de la coordenada. |
+| **name** | Nombre del restaurante. |
+| **num_of_reviews** | Cantidad de reseñas hechas por los usuarios. |
+| **Accessibility** | Características de los tipos de acceso al establecimiento. |
+| **Amenities** | Servicios que ofrece el establecimiento. |
+| **Atmosphere** | Tipo de entorno que ofrece el restaurante. |
+| **Crowd** | Tipos de multitudes admitidas |
+| **Dining_options** | Opciones gastronómicas |
+| **Highlights** | Servicios destacados |
+| **Offerings** | Ofertas |
+| **Payments** | Opciones de pago |
+| **Planning** | Opciones de planificación |
+| **Popular_for** | Público objetivo del restaurante |
+| **Service_options** | Opciones de servicios |
