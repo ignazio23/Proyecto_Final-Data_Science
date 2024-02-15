@@ -1,9 +1,9 @@
 <p align=center><img src=https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png><p>
 
 # <h1 align=center> **PROYECTO FINAL DATA SCIENCE** </h1>
-# <h1 align="center">**`GOOGLE MAPS & YELP - REVIEWS AND RECOMMENDATIONS`**</h1>
+# <h1 align="center">**`FOOD CRUSH - Tu lugar ideal para ir a comer`**</h1>
 
-  ![Imagen 2](https://innovisionbiz.com/wp-content/uploads/2018/10/Google_Yelp_Reviews.png)
+  ![Imagen 2](https://github.com/ignazio23/Proyecto_Final-Data_Science/blob/main/Utility/2024-02-15%2020_24_21-Window.png)
 
 ## **Marco de Entendimiento**
 
