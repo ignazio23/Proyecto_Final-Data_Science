@@ -91,25 +91,27 @@ Con un enfoque creativo y profesional, podemos convertir este texto en una herra
 
 <div style="display: flex; justify-content: space-between; flex-wrap:wrap; width: 100%">
     <img src="https://api.iconify.design/devicon:notion.svg" 
-        style="width: 40px; margin-right:40px"/>
+        style="width: 40px; margin-right:50px"/>
     <img src="https://api.iconify.design/devicon:python-wordmark.svg" 
-        style="width: 40px; margin-right:40px"/>
+        style="width: 40px; margin-right:50px"/>
     <img src="https://api.iconify.design/devicon:jupyter-wordmark.svg" 
-        style="width: 40px; margin-right:40px"/>
+        style="width: 40px; margin-right:50px"/>
     <img src="https://api.iconify.design/devicon:pandas-wordmark.svg" 
-        style="width: 40px; margin-right:40px"/>
+        style="width: 40px; margin-right:50px"/>
     <img src="https://api.iconify.design/devicon:matplotlib-wordmark.svg" 
-        style="width: 40px; margin-right:40px"/>
+        style="width: 40px; margin-right:50px"/>
     <img src="https://api.iconify.design/devicon:github.svg" 
-        style="width: 40px; margin-right:40px"/>
+        style="width: 40px; margin-right:50px"/>
     <img src="https://api.iconify.design/logos:microsoft-power-bi.svg" 
-        style="width: 40px; margin-right:40px"/>
+        style="width: 40px; margin-right:50px"/>
     <img src="https://api.iconify.design/devicon:vscode-wordmark.svg" 
-        style="width: 40px; margin-right:40px"/>
-    <img src="https://api.iconify.design/https://th.bing.com/th?id=OIP.o8S_aA6FBRvRRphwdIZnpgHaEK&w=333&h=187&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2.svg" 
-        style="width: 40px; margin-right:40px"/>
+        style="width: 40px; margin-right:50px"/>
     <img src="https://api.iconify.design/devicon:googlecloud.svg" 
-        style="width: 40px; margin-right:40px"/>
+        style="width: 40px; margin-right:50px"/>
+    <img src="https://api.iconify.design/devicon:streamlit-wordmark.svg" 
+        style="width: 40px; margin-right:50px"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" 
+        style="width: 80px; margin-right:50px"/>
 </div>
 
 
