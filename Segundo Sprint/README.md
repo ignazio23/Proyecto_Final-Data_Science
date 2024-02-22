@@ -33,3 +33,40 @@ Se debe realizar una estimación de tiempo para cada tarea, contemplando los tie
 Nos organizamos de manera tal que el equipo en esta instancia pasa a ser un equipo unido de Data Engineers, los cuales nos dividimos en aquellos quienes van a analizar y filtrar los datos para el diseñado del ETL y sus implementación. Aquellos que investiguen y evaluen los modos de uso de la plataforma seleccionada, a su vez la posibilidad de una herramienta extra la cual se vincula al almacenado de los datos (Docker), y la posterior implementación de lo recabado, siendo los que esten a cargo de la carga de datos y del manejo de los mismos a nivel Web. Y por último aquel que realice la revisión y actualización de la documentación, el análisis y control del código implementado y los diferentes entornos de visualización (Github y Notion).
 
 Finalmente, como en Data es muy importante trabajar con datos de calidad, deberán incluir en su informe un video de la implementación y ejecución del código (ETL) desarrollado, detallándolos lo más posible.
+
+
+## Diccionario de Datos
+
+### `review_estado`
+| Fila | Descripción |
+| --- | --- |
+| **user_id** | Id de usuario en Google Maps. |
+| **name** | Nombre de usuario en Google Maps. |
+| **time** | Fecha y hora de registro del comentario o calificación. |
+| **gmap_id** | Id de localización del establecimiento. |
+| **rating** | Calificación hecha por el usuario. |
+| **text** | Comentario hecho por el usuario. |
+| **review** | Dato para ML. |
+
+### `metadatos_restaurantes`
+| Fila | Descripción |
+| --- | --- |
+| **address** | Ubicación. |
+| **avg_rating** | Promedio de todas las puntuaciones recibidas. |
+| **category** | Categorías con las que está registrado. |
+| **gmap_id** | ID de localización del establecimiento proporcionado por google maps. |
+| **latitude** | Latitud de la coordenada. |
+| **longitude** | Longitud de la coordenada. |
+| **name** | Nombre del establecimiento. |
+| **num_of_reviews** | Cantidad de reseñas recibidas por usuarios. |
+| **Accessibility** | Características de los tipos de acceso al establecimiento. |
+| **Amenities** | Servicios que ofrece el establecimiento. |
+| **Atmosphere** | Tipo de entorno que ofrece el establecimiento. |
+| **Crowd** | Tipos de multitud que es admitida |
+| **Dining_options** | Opciones gastronómicas |
+| **Highlights** | Servicios destacados |
+| **Offerings** | Ofertas |
+| **Payments** | Métodos de pago |
+| **Planning** | Opciones en planificación |
+| **Popular_for** | Público objetivo del establecimiento |
+| **Service_options** | Opciones de servicios |
