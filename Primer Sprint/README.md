@@ -63,33 +63,35 @@ Tomamos la decisión en base al análisis realizado de trabajar con las siguient
 ### `review_estado`
 | Fila | Descripción |
 | --- | --- |
-| **user_id** | Id de usuario de Google Maps. |
-| **name** | Nombre de usuario de Google Maps. |
-| **time** | Fecha y hora de registro de la calificación y/o comentario. |
-| **gmap_id** | Id de localización del establecimiento, presente en tabla metadatos-sitio. |
+| **user_id** | Id de usuario en Google Maps. |
+| **name** | Nombre de usuario en Google Maps. |
+| **time** | Fecha y hora de registro del comentario o calificación. |
+| **gmap_id** | Id de localización del establecimiento. |
 | **rating** | Calificación hecha por el usuario. |
 | **text** | Comentario hecho por el usuario. |
-| **review** | Comentario tokenizado, para análisis de Machine Learning. |
+| **review** | Dato para ML. |
 
 ### `metadatos_restaurantes`
 | Fila | Descripción |
 | --- | --- |
-| **address** | Ubicación del negocio. |
-| **avg_rating** | Promedio de todas las puntuaciones hechas por los usuarios. |
-| **category** | Categorías con las que está registrado el restaurante. |
-| **gmap_id** | Id de localización del establecimiento proporcionado por google maps. |
+| **address** | Ubicación. |
+| **avg_rating** | Promedio de todas las puntuaciones recibidas. |
+| **category** | Categorías con las que está registrado. |
+| **gmap_id** | ID de localización del establecimiento proporcionado por google maps. |
 | **latitude** | Latitud de la coordenada. |
 | **longitude** | Longitud de la coordenada. |
-| **name** | Nombre del restaurante. |
-| **num_of_reviews** | Cantidad de reseñas hechas por los usuarios. |
+| **name** | Nombre del establecimiento. |
+| **num_of_reviews** | Cantidad de reseñas recibidas por usuarios. |
 | **Accessibility** | Características de los tipos de acceso al establecimiento. |
 | **Amenities** | Servicios que ofrece el establecimiento. |
-| **Atmosphere** | Tipo de entorno que ofrece el restaurante. |
-| **Crowd** | Tipos de multitudes admitidas |
+| **Atmosphere** | Tipo de entorno que ofrece el establecimiento. |
+| **Crowd** | Tipos de multitud que es admitida |
 | **Dining_options** | Opciones gastronómicas |
 | **Highlights** | Servicios destacados |
 | **Offerings** | Ofertas |
-| **Payments** | Opciones de pago |
-| **Planning** | Opciones de planificación |
+| **Payments** | Métodos de pago |
+| **Planning** | Opciones en planificación |
+| **Popular_for** | Público objetivo del establecimiento |
+| **Service_options** | Opciones de servicios |
 | **Popular_for** | Público objetivo del restaurante |
 | **Service_options** | Opciones de servicios |
