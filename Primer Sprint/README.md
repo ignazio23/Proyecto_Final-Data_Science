@@ -57,3 +57,28 @@ Tomamos la decisión en base al análisis realizado de trabajar con las siguient
  + Para la realización del EDA y en futuras instancias, para cualquier interacción con el código desarrollado, utilizaremos Google Colab y Visual Studio Code.
  + A su vez ya generamos un avance en la toma de decisiones, y optamos por la utilización de Google Cloud, Spark y Polars como implementación para el manejo de la data a utilizar, Power BI para la generación del Dashboard final, y por último, OpenIA y Bard como las herramientas de Inteligencia Artificial utilizadas.
 
+<div style="display: flex; justify-content: space-between; flex-wrap:wrap; width: 100%">
+    <img src="https://api.iconify.design/devicon:notion.svg" 
+        style="width: 40px; margin-right:50px"/>
+    <img src="https://api.iconify.design/devicon:python-wordmark.svg" 
+        style="width: 40px; margin-right:50px"/>
+    <img src="https://api.iconify.design/devicon:jupyter-wordmark.svg" 
+        style="width: 40px; margin-right:50px"/>
+    <img src="https://api.iconify.design/devicon:pandas-wordmark.svg" 
+        style="width: 40px; margin-right:50px"/>
+    <img src="https://api.iconify.design/devicon:matplotlib-wordmark.svg" 
+        style="width: 40px; margin-right:50px"/>
+    <img src="https://api.iconify.design/devicon:github.svg" 
+        style="width: 40px; margin-right:50px"/>
+    <img src="https://api.iconify.design/logos:microsoft-power-bi.svg" 
+        style="width: 40px; margin-right:50px"/>
+    <img src="https://api.iconify.design/devicon:vscode-wordmark.svg" 
+        style="width: 40px; margin-right:50px"/>
+    <img src="https://api.iconify.design/devicon:googlecloud.svg" 
+        style="width: 40px; margin-right:50px"/>
+    <img src="https://api.iconify.design/devicon:streamlit-wordmark.svg" 
+        style="width: 40px; margin-right:50px"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" 
+        style="width: 80px; margin-right:50px"/>
+</div>
+
