@@ -38,7 +38,7 @@ Finalmente, como en Data es muy importante trabajar con datos de calidad, deber�
 ## Diccionario de Datos
 
 ### `review_estado`
-| Fila | Descripción |
+| Dato | Descripción |
 | --- | --- |
 | **user_id** | Id de usuario en Google Maps. |
 | **name** | Nombre de usuario en Google Maps. |
@@ -49,7 +49,7 @@ Finalmente, como en Data es muy importante trabajar con datos de calidad, deber�
 | **review** | Dato para ML. |
 
 ### `metadatos_restaurantes`
-| Fila | Descripción |
+| Dato | Descripción |
 | --- | --- |
 | **address** | Ubicación. |
 | **avg_rating** | Promedio de todas las puntuaciones recibidas. |
