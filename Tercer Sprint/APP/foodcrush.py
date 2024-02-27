@@ -27,7 +27,7 @@ highdf = get_user(file2)
 
 # Sidebar con Opciones
 st.sidebar.image("https://github.com/ignazio23/Proyecto_Final-Data_Science/blob/main/Utility/2024-02-15%2020_24_21-Window.png?raw=true", width=300)
-sidebar_option = st.sidebar.radio("Elige una Opción", ["Inicio", "Crush", "Popular Destination","Dashboard"])
+sidebar_option = st.sidebar.radio("Elige una Opción", ["Inicio", "Crush","Dashboard"])
 
 
 # Fondo del Sidebar
