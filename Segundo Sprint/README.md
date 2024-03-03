@@ -21,6 +21,18 @@ Generar una completa idea del diseño de nuestro modelo de datos, esto para mane
 Deberemos delimitar el trabajo definiendo el correcto alcance y las tareas/desarrollos que se puedan considerar importantes para la integridad del proyecto por complejidad o tiempo.
 
 
+### **KPIs Definidos**
+
+Se realiza un planteamiento final de los KPI’s diseñados para de esta forma poder apuntar de manera certera y enfocada a lo que buscamos destacar y posteriormente demostrar.
+
+De esta etapa deben salir las posibles formas de implementación de los KPI y una correcta definición de los mismos.
+
+
+### • Nuevo **Repositorio Github**
+
+Se realiza la migración de la data a un nuevo repositorio en Github (https://github.com/ignazio23/Proyecto_Final-Data_Science/tree/main) en el cual realizamos la reorganización y replanteamiento de la data desarrollada, tanto de los apartados de código generados, como de los ReadME de cada Sprint y del proyecto en general, donde se busca dejar con mayor enfoque y fundamentos aquello que se realizo e información relevante de cada etapa del proyecto realizado.
+
+
 ### • **ETL y Plataforma WEB**
 
 Realizamos de manera conjunta la evaluación de los datos actualmente trabajados, de manera tal que podamos acceder a los mismos y cargarlos en la plataforma seleccionada (en nuestro GCP) para su uso posterior y el correcto diseño con los mismo de un ETL Automatizado, el cual nos permita no solo evaluar, organizar y dejar preparados los datos para el uso de estos en el futuro Dashboard a realizar; sino también poder demostrar la capacidad de realización y desarrollo de un procesado automatizado el cual al recibir datos pueda evaluar de manera autonoma los mismos, y procesarlos para su posterior carga y utilización.
