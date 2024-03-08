@@ -14,7 +14,8 @@ Para este Sprint final se realiza la delimitación de un alcance mayor a los ant
 
 En esta última DEMO se deberá no solo presentar y fundamentar lo solicitado para el tercer Sprint, sino que también se realizará un pasaje por los Sprints anteriores, dando como resultado una evaluación general de todo el proyecto como tal por lo que debemos realizar controles y revisiones de manera efectiva, enfocada y certera para poder así tener la seguridad de estar realizando la entrega de un proyecto completo y acorde a los solicitado.
 
-A su vez se deberá realizar un video donde tengamos un breve demostración de como funciona nuestro desarrollo final, mediante la utilización (en nuestro caso) de la herramienta Streamlit.
+A su vez se deberá realizar un video donde tengamos un breve demostración de como funciona nuestro desarrollo final, mediante la utilización (en nuestro caso) de la herramienta Streamlit, o de lo contrario, realizar una presentación en vivo de su funcionamiento.
+Y deberemos realizar la construcción de un Dashboard interactivo mediante el cual se logre visualizar la data de manera más intuitiva y enfocada a una comprensión más sencilla de lo trabajado.
 
 Evidenciando lo comentado anteriormente adjuntaremos capturas tanto de la interfaz principal del Streamlit desarrollado, y capturas de la portada del Dashboard generado y la primer ventana de gráficas.
 
@@ -29,14 +30,3 @@ Evidenciando lo comentado anteriormente adjuntaremos capturas tanto de la interf
   
   ![Imagen 3.3](https://github.com/ignazio23/Proyecto_Final-Data_Science/blob/main/Utility/2024-03-08%2015_55_35-Food%20Crush%20Dashboard.pdf%20and%204%20more%20pages%20-%20Personal%20-%20Microsoft%E2%80%8B%20Edge.png)
 
-
-Se repasan algunos de los apartados a realizar, modificar, documentar o revisar:
-
-- **Diseño de Reportes/Dashboards**
-- **KPIs**
-- **Modelos de ML**
-- **Modelo de ML en producción**
-- **Documentación**
-- **Selección del modelo, feature engineering**
-- **Informe de análisis**
-- **Video del proyecto realizado, para ser votado y, en caso de ganar, ser presentado en la graduación final.**
