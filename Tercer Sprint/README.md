@@ -16,6 +16,10 @@ En esta última DEMO se deberá no solo presentar y fundamentar lo solicitado pa
 
 A su vez se deberá realizar un video donde tengamos un breve demostración de como funciona nuestro desarrollo final, mediante la utilización (en nuestro caso) de la herramienta Streamlit.
 
+Evidenciando lo comentado anteriormente adjuntaremos capturas tanto de la interfaz principal del Streamlit desarrollado, y capturas de la portada del Dashboard generado.
+
+
+
 Se repasan algunos de los apartados a realizar, modificar, documentar o revisar:
 
 - **Diseño de Reportes/Dashboards**
