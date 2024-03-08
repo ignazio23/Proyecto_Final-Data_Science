@@ -24,9 +24,9 @@ Es una tarea muy abarcativa y a la vez muy específica en torno tanto a la probl
 
 Los KPI definidos posterior a su debido análisis y resolución por parte del equipo, son:
  + Mejorar el porcentaje de reseñas positivas en un 10 % respecto del año anterior.
- + Reducir el tiempo de espera de platillos en un 5% respecto al mes anterior.
- + Incrementar un 15% la clientela respecto del año anterior.
- + Medir si se cumple en un 80% el mejor plato servido, en el restaurante determinado.
+ + Mejorar la distribución de beneficios en base a los locales evaluados.
+ + Mejorar la cantidad de estrellas, evaluando la comparativo de estados/ciudades en base a estrellas (categorización).
+ + Mejorar la cantidad de estrellas en comparación a la cantidad de Reviews recibidas, evaluando la comparativo de estados/ciudades en base a estrellas (categorización).
 
 
 ### • **Repositorio Github y Documentación en Notion**
