@@ -23,10 +23,10 @@ Del entendimiento de la problemática surgirán cuestiones que se buscarán reso
 Es una tarea muy abarcativa y a la vez muy específica en torno tanto a la problemática como al enfoque elegido.
 
 Los KPI definidos posterior a su debido análisis y resolución por parte del equipo, son:
- + Mejorar el porcentaje de reseñas positivas en un 10 % respecto del año anterior.
- + Mejorar la distribución de beneficios en base a los locales evaluados.
- + Mejorar la cantidad de estrellas, evaluando la comparativo de estados/ciudades en base a estrellas (categorización).
- + Mejorar la cantidad de estrellas en comparación a la cantidad de Reviews recibidas, evaluando la comparativo de estados/ciudades en base a estrellas (categorización).
+ + Aumentar el porcentaje de reseñas positivas en un 10% respecto del año anterior.
+ + Aumentar un 5% la distribución de beneficios/prestaciones de los locales evaluados respecto del año anterior 
+ + Aumentar un 5% la cantidad de estrellas en cada estado/ciudad respecto al año anterior.
+ + Aumentar un 3% la cantidad de estrellas sobre la cantidad de reviews recibidas (ratio Q estrellas/Q reseñas) por cada estado/ciudad respecto del año anterior.
 
 
 ### • **Repositorio Github y Documentación en Notion**
