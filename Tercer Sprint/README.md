@@ -16,8 +16,18 @@ En esta última DEMO se deberá no solo presentar y fundamentar lo solicitado pa
 
 A su vez se deberá realizar un video donde tengamos un breve demostración de como funciona nuestro desarrollo final, mediante la utilización (en nuestro caso) de la herramienta Streamlit.
 
-Evidenciando lo comentado anteriormente adjuntaremos capturas tanto de la interfaz principal del Streamlit desarrollado, y capturas de la portada del Dashboard generado.
+Evidenciando lo comentado anteriormente adjuntaremos capturas tanto de la interfaz principal del Streamlit desarrollado, y capturas de la portada del Dashboard generado y la primer ventana de gráficas.
 
+### • **Streamlit**
+
+  ![Imagen 3.1](https://github.com/ignazio23/Proyecto_Final-Data_Science/blob/main/Utility/WhatsApp%20Image%202024-03-08%20at%2015.49.15.jpeg)
+
+
+### • **Dashboard**
+
+  ![Imagen 3.2](https://github.com/ignazio23/Proyecto_Final-Data_Science/blob/main/Utility/2024-03-08%2015_55_24-Food%20Crush%20Dashboard.pdf%20and%204%20more%20pages%20-%20Personal%20-%20Microsoft%E2%80%8B%20Edge.png)
+  
+  ![Imagen 3.3](https://github.com/ignazio23/Proyecto_Final-Data_Science/blob/main/Utility/2024-03-08%2015_55_35-Food%20Crush%20Dashboard.pdf%20and%204%20more%20pages%20-%20Personal%20-%20Microsoft%E2%80%8B%20Edge.png)
 
 
 Se repasan algunos de los apartados a realizar, modificar, documentar o revisar:
